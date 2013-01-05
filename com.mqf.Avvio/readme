@@ -1,0 +1,5 @@
+Word from  16#0000 to 16#FFFF 10#65535
+INT from   10#-32768 to 10#32767
+BYTE from  10#-127 to 10#128 16#00 to 16#FF
+To AndroidManifest add 
+  <uses-permission android:name="android.permission.INTERNET" /> 
